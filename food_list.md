@@ -1,0 +1,6 @@
+- bananas
+- apples
+- chicken
+- onions
+- pineapple
+- chocolate
